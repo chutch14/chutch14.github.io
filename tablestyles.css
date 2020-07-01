@@ -1,11 +1,13 @@
  table {
-   border:solid 2pt black;
+   border: solid 2pt black;
  }
+
  th{
    background-color: #53a7f5
-   padding: 10pt;
+   padding: 10px;
  }
+
  td{
-   border:solid 2pt black;
-   padding 10pt;
+   border: solid 1pt black;
+   padding 10px;
  }
